@@ -1,5 +1,9 @@
-### Hi there 👋
-
+## Hello 👋
+### I'm currently working on my "Android Development Skills"
+- 📫 How to reach me:
+  > Twitter: www.twitter.com/epicdevler
+  > Email: philiponwadike123@gmail.com
+  
 <!--
 **epicdevler/epicdevler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
