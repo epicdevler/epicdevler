@@ -1,6 +1,6 @@
 ## Hello 👋
-### I'm Nwadike Philip
-### Mobile App Developer
+- I'm Nwadike Philip
+- Mobile App Developer
 - 📫 How to reach me:
   > Twitter: www.twitter.com/epicdevler
   > Email: philiponwadike123@gmail.com
