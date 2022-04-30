@@ -18,8 +18,8 @@ Welcome to my Github page!
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=bielsesa&count_private=true&show_icons=true&icon_color=eb8034&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielsesa&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=epicdevler&count_private=true&show_icons=true&icon_color=eb8034&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicdevler&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bielsesa.bielsesa)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=epicdevler.epicdevler)
 
