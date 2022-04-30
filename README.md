@@ -4,7 +4,7 @@
 
 Welcome to my Github page!
 - 🌱 I’m currently learning advanced Android Development with kotlin
-- 📫 How to reach me: ![philiponwadike123@gmail.com](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail)![dev.epicdevler@gmail.com](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail), I promise I look my email everyday! Or at least almost everyday...
+- 📫 How to reach me: ![philiponwadike123@gmail.com](https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmail) or ![dev.epicdevler@gmail.com](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail), I promise I look my email everyday! Or at least almost everyday...
 - 😄 Pronouns: He/They
 - 🌐 You can speak with me in English😃
 
