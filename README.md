@@ -1,15 +1,15 @@
 ## Hello 👋
 - I'm Nwadike Philip
 - Mobile App Developer
-
+---
 Welcome to my Github page!
-- 🌱 I’m currently learning advanced Android Development with kotlin
-- 📫 How to reach me: ![GMAIl](philiponwadike@gmail.com) or ![dev.epicdevler@gmail.com](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail), I promise I look my email everyday! Or at least almost everyday...
+- 🌱 I’m learning advanced Android Development with kotlin *Currently giving Flutter a try*
+- 📫 How to reach me: philiponwadike@gmail.com or dev.epicdevler@gmail.com, I promise I look my email everyday! Or at least almost everyday...
 - 😄 Pronouns: He/They
 - 🌐 You can speak with me in English😃
 
 ### Technologies
-
+---
 <!-- ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) -->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
