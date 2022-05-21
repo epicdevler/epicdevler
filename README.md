@@ -21,7 +21,8 @@ Welcome to my Github page!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=epicdevler&count_private=true&show_icons=true&icon_color=eb8034&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epicdevler&hide=TeX&layout=compact)
----
+
 ### Visitors
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=epicdevler.epicdevler)
 
