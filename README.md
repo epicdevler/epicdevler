@@ -1,4 +1,3 @@
-## Hello 👋
 <h1 align="center">Hi 👋, I'm Nwadike Philip</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
