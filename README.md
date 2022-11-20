@@ -27,9 +27,13 @@ Welcome to my Github page!
 
 ### Visitors
 ---
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=epicdevler.epicdevler)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/epicdevler/count.svg" />
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epicdevler&label=Profile%20views&color=0e75b6&style=flat" alt="epicdevler" /> </p>
+
 
 
