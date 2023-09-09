@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Android Developer</h3>
 
 ---
-Welcome to my Github page!
-- 📫 How to reach me: philiponwadike@gmail.com or dev.epicdevler@gmail.com, I promise I look my email everyday! Or at least almost everyday...
+Welcome to my GitHub page!
+- 📫 How to reach me: philiponwadike@gmail.com or dev.epicdevler@gmail.com, I promise I look my email everyday! Or at least almost every day...
 - 😄 Pronouns: He/They
 - 🌐 You can speak with me in English😃
 - 🌱 I’m currently learning **Design Patterns narrowed to Kotlin and Dart**
@@ -11,7 +11,7 @@ Welcome to my Github page!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__nwadike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__epicdevler" height="30" width="40" /></a>
+<a href="https://twitter.com/epicdevler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__epicdevler" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nwadikephilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nwadikephilip" height="30" width="40" /></a>
 <a href="https://fb.com/nwadikephilip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nwadikephilip" height="30" width="40" /></a>
 </p>
