@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwadike Philip</h1>
-<h3 align="center">🚀 Passionate Android Developer | Kotlin & Dart Enthusiast</h3>
+<h3 align="center">🚀 Passionate Android Developer | Android & Web Enthusiast</h3>
 
 ---
 
@@ -14,7 +14,6 @@ Welcome to my GitHub! I build sleek, efficient Android apps using <strong>Kotlin
   _(I check my emails every day... or at least almost every day 😉)_
 - 😄 Pronouns: He/They  
 - 🌐 Language: English  
-- 🌱 Currently diving into: **Design Patterns in Kotlin & Dart**
 
 ---
 
