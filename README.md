@@ -35,7 +35,9 @@ I specialize in building fast, responsive interfaces for web and mobile with a s
 ### 🛠 Tech Stack
 
 **Web:** Next.js • Vite • Zustand • TanStack Query
+
 **Mobile:** Kotlin • Jetpack Compose • Kotlin Multiplatform
+
 **Backend Integration:** Supabase • Firebase • REST APIs
 
 ---
