@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nwadike Philip</h1>
-<h3 align="center">Frontend Developer • Mobile UI Engineer</h3>
+<h3 align="center">Frontend Engineer</h3>
 
 <p align="center">
 I specialize in building fast, responsive interfaces for web and mobile with a strong focus on performance, usability, and clean architecture.
